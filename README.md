@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Hoje trabalho em Industria Automobilística 
 - 🌱 Estudando HTML5 | CSS3 | JavaScript
+##
 
 
  <div>
