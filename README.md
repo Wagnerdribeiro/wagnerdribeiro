@@ -1,4 +1,8 @@
 ### Olá! Eu sou o Wagner Ribeiro 👋
+##
+
+- 🌱 Estudando HTML5 | CSS3 | JavaScript
+
  <div>
   <a href="https://github.com/Wagnerdribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerdribeiro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
