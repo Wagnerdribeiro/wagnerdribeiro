@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wagner Ribeiro 👋
 ##
 
-- 🌱 Estudando HTML5 | CSS3 | JavaScript
+- 🌱 Estudando HTML5 | CSS3 | JavaScript | React
 ##
  <div>
   <a href="https://github.com/Wagnerdribeiro">
